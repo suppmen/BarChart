@@ -1,0 +1,11 @@
+.bar {
+  background-color: aqua;
+  height: 50vw;
+  width: 40vw;
+  border: solid 1px black;
+  align-self: baseline;
+}
+
+#bars {
+  display: flex;
+}
